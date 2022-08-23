@@ -8,5 +8,5 @@ var user = {
     // Display Name
     "Display" : "Gob Bleuth",
     // WebSocket URL
-    "WSServer"  : "ws://3frontoffice.nr.tre.se"
+    "WSServer"  : "wss://3frontoffice.nr.tre.se"
 };
