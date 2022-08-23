@@ -414,6 +414,7 @@ ClientContext = function (ua, method, target, options) {
   target = ua.normalizeTarget(target);
   if (!target) {
     throw new TypeError('Invalid target: ' + originalTarget);
+    console.log("Invalid Target");
   }
 
   /* Options
